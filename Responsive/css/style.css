@@ -1,0 +1,28 @@
+.header {
+    background: url(../img/ac.png) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .header .navbar {
+    background-color: transparent !important;
+  }
+  .card{
+      border-color: bisque;
+      border: solid bisque;
+  }
+  .ir-arriba {
+	display:none;
+	padding:20px;
+	background:#024959;
+	font-size:20px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
+p{
+  text-align: center;
+}
+
+
